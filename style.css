@@ -690,12 +690,12 @@ a {
     
     img {
         display: flex;
-        width: 507px;
+        width: 524px;
         margin: 0 auto 0;
     }
     
     #bigmain1 {
-        max-width: 507px;
+        max-width: 524px;
         min-height: 240px;
         border-radius: 10px;
         margin: 0 auto 0 auto;
@@ -704,7 +704,7 @@ a {
     }
     
     #main1 {
-        max-width: 487px;
+        max-width: 504px;
         min-height: 200px;
         margin: 0 auto 0 auto;
         top: 20px;
@@ -713,7 +713,7 @@ a {
     }
     
     #bigmain2 {
-        max-width: 507px;
+        max-width: 524px;
         min-height: 500px;
         border-radius: 10px;
         margin: 0 auto 0 auto;
@@ -724,7 +724,7 @@ a {
     
     #main2 {
         display: flex;
-        max-width: 487px;
+        max-width: 504px;
         min-height: 500px;
         margin: 0 auto 0 auto;
         position: relative;
@@ -739,7 +739,7 @@ a {
     
     
     #bigmain3 {
-        max-width: 507px;
+        max-width: 524px;
         min-height: 1670px;
         border-radius: 10px;
         margin: 0 auto 0 auto;
@@ -748,7 +748,7 @@ a {
     }
     
     #main3 {
-        max-width: 487px;
+        max-width: 504px;
         min-height: 1630px;
         top: 20px;
         margin: 0 auto 0 auto;
@@ -760,7 +760,7 @@ a {
     
     
     #bigmain4 {
-        max-width: 507px;
+        max-width: 524px;
         min-height: 650px;
         border-radius: 10px;
         margin: 0 auto 0 auto;
@@ -769,7 +769,7 @@ a {
     }
     
     #main4 {
-        max-width: 507px;
+        max-width: 524px;
         min-height: 650px;
         border-radius: 10px;
         margin: 0 auto 0 auto;
@@ -779,14 +779,14 @@ a {
     table {
         margin: 0 auto 0 auto;
         background-color: rgb(255, 255, 255);
-        width: 507px;
+        width: 524px;
         font-size: 14px;
     }
     
     
     
     #bigmain5 {
-        max-width: 507px;
+        max-width: 524px;
         min-height: 2160px;
         border-radius: 10px;
         margin: 0 auto 0 auto;
@@ -795,7 +795,7 @@ a {
     }
     
     #main5 {
-        max-width: 487px;
+        max-width: 504px;
         min-height: 2120px;
         top: 20px;
         margin: 0 auto 0 auto;
@@ -811,7 +811,7 @@ a {
     
     
     #bigmain6 {
-        max-width: 507px;
+        max-width: 524px;
         min-height: 500px;
         border-radius: 10px;
         margin: 0 auto 0 auto;
@@ -821,7 +821,7 @@ a {
     }
     
     #main6 {
-        max-width: 487px;
+        max-width: 504px;
         min-height: 80px;
         border-radius: 10px;
         margin: 0 auto 0 auto;
@@ -832,7 +832,7 @@ a {
     
     
     #bigmain7 {
-        max-width: 507px;
+        max-width: 524px;
         min-height: 500px;
         border-radius: 10px;
         margin: 0 auto 0 auto;
@@ -842,7 +842,7 @@ a {
     
     #main7 {
         display: flex;
-        max-width: 507px;
+        max-width: 524px;
         min-height: 225px;
         margin: 0 auto 0 auto;
         position: relative;
@@ -851,7 +851,7 @@ a {
     
     
     #bigmain8 {
-        max-width: 507px;
+        max-width: 524px;
         min-height: 500px;
         border-radius: 10px;
         margin: 0 auto 0 auto;
@@ -860,7 +860,7 @@ a {
     }
     
     #main8 {
-        max-width: 487px;
+        max-width: 504px;
         min-height: 900px;
         margin: 0 auto 0 auto;
         position: relative;
@@ -868,7 +868,7 @@ a {
     }
     
     #main9 {
-        max-width: 507px;
+        max-width: 524px;
         min-height: 760px;
         border-radius: 10px;
         margin: 0 auto 0 auto;
@@ -879,13 +879,13 @@ a {
     #main9 table {
         margin: 0 auto 0 auto;
         background-color: rgb(255, 255, 255);
-        max-width: 507px;
+        max-width: 524px;
     }
     
     
     
     #main10 {
-        max-width: 507px;
+        max-width: 524px;
         min-height: 760px;
         border-radius: 10px;
         margin: 0 auto 0 auto;
@@ -1423,7 +1423,7 @@ a {
     
     img {
         display: flex;
-        width: 369px;
+        width: 359px;
         margin: 0 auto 0;
     }
     
@@ -1519,7 +1519,7 @@ a {
     table {
         margin: 0 auto 0 auto;
         background-color: rgb(255, 255, 255);
-        width: 369px;
+        width: 359px;
         font-size: 10px;
     }
     
@@ -1675,7 +1675,7 @@ a {
     
     img {
         display: flex;
-        width: 354px;
+        width: 344px;
         margin: 0 auto 0;
     }
     
@@ -1771,7 +1771,7 @@ a {
     table {
         margin: 0 auto 0 auto;
         background-color: rgb(255, 255, 255);
-        width: 354px;
+        width: 344px;
         font-size: 10px;
     }
     
@@ -1928,7 +1928,7 @@ a {
     
     img {
         display: flex;
-        width: 314px;
+        width: 304px;
         margin: 0 auto 0;
     }
     
@@ -2024,7 +2024,7 @@ a {
     table {
         margin: 0 auto 0 auto;
         background-color: rgb(255, 255, 255);
-        width: 314px;
+        width: 304px;
         font-size: 10px;
     }
     
