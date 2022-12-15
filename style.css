@@ -1047,8 +1047,8 @@ a {
         position: relative;
         background: linear-gradient(rgb(92, 24, 24),rgb(22, 22, 22));
         background-color: rgb(92, 24, 24);
+        font-size: 10px;
     }
-    
     
     
     #bigmain6 {
@@ -2146,6 +2146,12 @@ a {
     }
 
 }
+
+
+
+
+
+
 
 
 
