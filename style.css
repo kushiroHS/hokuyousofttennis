@@ -87,6 +87,10 @@ h3 {
     background-color: rgb(145, 34, 34);
 }
 
+#main2 h2 {
+    font-size: 27px;
+}
+
 #main2 img {
     display: flex;
     width: 250px;
@@ -732,7 +736,7 @@ a {
     }
 
     #main2 h2 {
-        font-size: 19px;
+        font-size: 15px;
     }
     
     
@@ -976,7 +980,7 @@ a {
     }
 
     #main2 h2 {
-        font-size: 15px;
+        font-size: 12px;
     }
     
     
@@ -1222,7 +1226,7 @@ a {
     }
 
     #main2 h2 {
-        font-size: 15px;
+        font-size: 11px;
     }
     
     
@@ -1471,7 +1475,7 @@ a {
     }
 
     #main2 h2 {
-        font-size: 13px;
+        font-size: 11px;
     }
     
     
@@ -1723,7 +1727,7 @@ a {
     }
 
     #main2 h2 {
-        font-size: 11px;
+        font-size: 10px;
     }
     
     
@@ -1971,12 +1975,12 @@ a {
     }
 
     #main2 img {
-        width: 170px;
-        height: 300px;
+        width: 130px;
+        height: 260px;
     }
 
     #main2 h2 {
-        font-size: 11px;
+        font-size: 10px;
     }
     
     
