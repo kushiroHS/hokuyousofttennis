@@ -720,7 +720,7 @@ a {
         position: relative;
         background-image: url(img/002.jpg);
         background-repeat: no-repeat;
-        background-position: 415px 5px;
+        background-position: 430px 5px;
         background-size: 90px;
     }
 
@@ -953,7 +953,7 @@ a {
         position: relative;
         background-image: url(img/002.jpg);
         background-repeat: no-repeat;
-        background-position: 335px 5px;
+        background-position: 330px 5px;
         background-size: 75px;
     }
 
@@ -972,13 +972,13 @@ a {
     
     img {
         display: flex;
-        width: 407px;
+        width: 414px;
         margin: 0 auto 0;
     }
     
     #bigmain1 {
-        max-width: 407px;
-        min-height: 280px;
+        max-width: 414px;
+        min-height: 240px;
         border-radius: 10px;
         margin: 0 auto 0 auto;
         position: relative;
@@ -986,18 +986,18 @@ a {
     }
     
     #main1 {
-        max-width: 387px;
-        min-height: 240px;
+        max-width: 404px;
+        min-height: 200px;
         margin: 0 auto 0 auto;
         top: 20px;
         position: relative;
         background: linear-gradient(rgb(92, 24, 24),rgb(22, 22, 22));
-        font-size: 15px;
+        font-size: 14px;
     }
     
     #bigmain2 {
-        max-width: 407px;
-        min-height: 350px;
+        max-width: 414px;
+        min-height: 450px;
         border-radius: 10px;
         margin: 0 auto 0 auto;
         top: 20px;
@@ -1007,7 +1007,7 @@ a {
     
     #main2 {
         display: flex;
-        max-width: 387px;
+        max-width: 404px;
         min-height: 350px;
         margin: 0 auto 0 auto;
         position: relative;
@@ -1076,7 +1076,7 @@ a {
     
     #bigmain5 {
         max-width: 407px;
-        min-height: 2160px;
+        min-height: 1910px;
         border-radius: 10px;
         margin: 0 auto 0 auto;
         position: relative;
@@ -1085,7 +1085,7 @@ a {
     
     #main5 {
         max-width: 387px;
-        min-height: 2120px;
+        min-height: 1830px;
         top: 20px;
         margin: 0 auto 0 auto;
         position: relative;
@@ -1224,7 +1224,7 @@ a {
     
     #bigmain1 {
         max-width: 391px;
-        min-height: 280px;
+        min-height: 200px;
         border-radius: 10px;
         margin: 0 auto 0 auto;
         position: relative;
@@ -1233,12 +1233,12 @@ a {
     
     #main1 {
         max-width: 371px;
-        min-height: 240px;
+        min-height: 170px;
         margin: 0 auto 0 auto;
         top: 20px;
         position: relative;
         background: linear-gradient(rgb(92, 24, 24),rgb(22, 22, 22));
-        font-size: 14px;
+        font-size: 13px;
     }
     
     #bigmain2 {
@@ -1322,7 +1322,7 @@ a {
     
     #bigmain5 {
         max-width: 391px;
-        min-height: 2160px;
+        min-height: 1900px;
         border-radius: 10px;
         margin: 0 auto 0 auto;
         position: relative;
@@ -1331,7 +1331,7 @@ a {
     
     #main5 {
         max-width: 371px;
-        min-height: 2120px;
+        min-height: 1850px;
         top: 20px;
         margin: 0 auto 0 auto;
         position: relative;
@@ -1448,7 +1448,7 @@ a {
         position: relative;
         background-image: url(img/002.jpg);
         background-repeat: no-repeat;
-        background-position: 310px 5px;
+        background-position: 295px 5px;
         background-size: 60px;
     }
 
@@ -1473,7 +1473,7 @@ a {
     
     #bigmain1 {
         max-width: 369px;
-        min-height: 280px;
+        min-height: 190px;
         border-radius: 10px;
         margin: 0 auto 0 auto;
         position: relative;
@@ -1482,12 +1482,12 @@ a {
     
     #main1 {
         max-width: 349px;
-        min-height: 240px;
+        min-height: 150px;
         margin: 0 auto 0 auto;
         top: 20px;
         position: relative;
         background: linear-gradient(rgb(92, 24, 24),rgb(22, 22, 22));
-        font-size: 13px;
+        font-size: 12px;
     }
     
     #bigmain2 {
@@ -1571,7 +1571,7 @@ a {
     
     #bigmain5 {
         max-width: 369px;
-        min-height: 2160px;
+        min-height: 1940px;
         border-radius: 10px;
         margin: 0 auto 0 auto;
         position: relative;
@@ -1580,7 +1580,7 @@ a {
     
     #main5 {
         max-width: 349px;
-        min-height: 2120px;
+        min-height: 1900px;
         top: 20px;
         margin: 0 auto 0 auto;
         position: relative;
@@ -1700,7 +1700,7 @@ a {
         position: relative;
         background-image: url(img/002.jpg);
         background-repeat: no-repeat;
-        background-position: 290px 5px;
+        background-position: 280px 5px;
         background-size: 60px;
     }
 
@@ -1725,7 +1725,7 @@ a {
     
     #bigmain1 {
         max-width: 354px;
-        min-height: 280px;
+        min-height: 190px;
         border-radius: 10px;
         margin: 0 auto 0 auto;
         position: relative;
@@ -1734,12 +1734,12 @@ a {
     
     #main1 {
         max-width: 334px;
-        min-height: 240px;
+        min-height: 150px;
         margin: 0 auto 0 auto;
         top: 20px;
         position: relative;
         background: linear-gradient(rgb(92, 24, 24),rgb(22, 22, 22));
-        font-size: 13px;
+        font-size: 12px;
     }
     
     #bigmain2 {
@@ -1823,7 +1823,7 @@ a {
     
     #bigmain5 {
         max-width: 354px;
-        min-height: 2160px;
+        min-height: 1940px;
         border-radius: 10px;
         margin: 0 auto 0 auto;
         position: relative;
@@ -1832,7 +1832,7 @@ a {
     
     #main5 {
         max-width: 334px;
-        min-height: 2120px;
+        min-height: 1900px;
         top: 20px;
         margin: 0 auto 0 auto;
         position: relative;
@@ -1953,7 +1953,7 @@ a {
         position: relative;
         background-image: url(img/002.jpg);
         background-repeat: no-repeat;
-        background-position: 260px 5px;
+        background-position: 250px 5px;
         background-size: 50px;
     }
 
@@ -1978,7 +1978,7 @@ a {
     
     #bigmain1 {
         max-width: 314px;
-        min-height: 280px;
+        min-height: 170px;
         border-radius: 10px;
         margin: 0 auto 0 auto;
         position: relative;
@@ -1987,12 +1987,12 @@ a {
     
     #main1 {
         max-width: 294px;
-        min-height: 240px;
+        min-height: 130px;
         margin: 0 auto 0 auto;
         top: 20px;
         position: relative;
         background: linear-gradient(rgb(92, 24, 24),rgb(22, 22, 22));
-        font-size: 11px;
+        font-size: 10px;
     }
     
     #bigmain2 {
@@ -2076,7 +2076,7 @@ a {
     
     #bigmain5 {
         max-width: 314px;
-        min-height: 2160px;
+        min-height: 1990px;
         border-radius: 10px;
         margin: 0 auto 0 auto;
         position: relative;
@@ -2085,7 +2085,7 @@ a {
     
     #main5 {
         max-width: 294px;
-        min-height: 2120px;
+        min-height: 1950px;
         top: 20px;
         margin: 0 auto 0 auto;
         position: relative;
